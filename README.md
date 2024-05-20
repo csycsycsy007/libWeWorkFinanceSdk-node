@@ -1,6 +1,6 @@
-# libWeWorkFinanceSdk-node
+# 企业微信会话内容存档 node.js 版
 
-环境：linux, 
+环境：linux
 
 1. 实现思路：
    .cpp(用来调用 WeWorkFinanceSdk.h 里的方法)  ->  编译成 .node  ->  js引入 .node 就可以调用相关函数了
